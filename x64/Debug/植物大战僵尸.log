@@ -1,0 +1,59 @@
+﻿  Game.cpp
+E:\file\c++\pvz\文件\Game.cpp(20,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(97,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(97,22): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(40,7): warning C4101: “name”: 未引用的局部变量
+E:\file\c++\pvz\文件\Game.cpp(194,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(194,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(258,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(258,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(271,47): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(271,31): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(312,22): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(314,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(316,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(373,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(374,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(382,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\file\c++\pvz\文件\Game.cpp(384,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  glqzm.cpp
+  HBSS.cpp
+  HJSZ.cpp
+  JGQ.cpp
+  lzzm.cpp
+  plant.cpp
+  res.cpp
+E:\file\c++\pvz\文件\res.cpp(61,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\file\c++\pvz\文件\res.cpp(63,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\res.cpp(63,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  SRH.cpp
+  TDDL.cpp
+  tools.cpp
+E:\file\c++\pvz\文件\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  ttzm.cpp
+  vector2.cpp
+E:\file\c++\pvz\文件\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  WDSS.cpp
+  XRK.cpp
+E:\file\c++\pvz\文件\XRK.cpp(26,41): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\XRK.cpp(26,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\XRK.cpp(27,41): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\XRK.cpp(27,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\file\c++\pvz\文件\XRK.cpp(29,13): warning C4305: “=”: 从“double”到“float”截断
+  YTZD.cpp
+  zm.cpp
+  源.cpp
+  正在生成代码...
+  植物大战僵尸.vcxproj -> E:\file\c++\pvz\x64\Debug\植物大战僵尸.exe
